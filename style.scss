@@ -1,0 +1,40 @@
+body {
+  text-align: left;
+  background-color: rgb(222, 184, 135);
+}
+h1 {
+  font-family: sans-serif, merriweather;
+  font-size: 40px;
+  text-align: center;
+  background-color: rgb(255, 250, 240);
+}
+h2 {
+  font-family: sans-serif, merriweather;
+  font-size: 30;
+  text-align: center;
+  background-color: rgb(255, 250, 240);
+}
+
+p {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+}
+
+#link-container {
+    text-align: center;
+}
+
+#tribute-link {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  display: inline-block;
+  padding: 10px;
+  
+}
+
+img.center {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
